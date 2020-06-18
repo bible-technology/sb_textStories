@@ -220,21 +220,21 @@
       "en": "Copyright © 2020 by unfoldingWord, CC BY-SA 4.0"
     },
     "fullStatementPlain": {
-      "en": "unfoldingWord® Open Bible Stories\n\nCopyright © 2020 by unfoldingWord\n\nThis work is made available under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA). To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.\n\nunfoldingWord® is a registered trademark of unfoldingWord. Use of the unfoldingWord name or logo requires the written permission of unfoldingWord. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the unfoldingWord® trademark intact. However, if you modify a copy or translate this work, thereby creating a derivative work, you must remove the unfoldingWord® trademark.\n\nOn the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by unfoldingWord is available from [https://openbiblestories.org](https://openbiblestories.org)”. You must also make your derivative work available under the same license (CC BY-SA).\n\nIf you would like to notify unfoldingWord regarding your translation of this work, please contact us at [https://unfoldingword.org/contact/](https://unfoldingword.org/contact/).\n\nAttribution of artwork: All images used in these stories are © Sweet Publishing ([www.sweetpublishing.com](http://www.sweetpublishing.com)) and are made available under a Creative Commons Attribution-Share Alike License ([http://creativecommons.org/licenses/by-sa/3.0](http://creativecommons.org/licenses/by-sa/3.0))."
+      "en": "unfoldingWord® Open Bible Stories–Copyright © 2020 by unfoldingWord–This work is made available under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA). To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. unfoldingWord® is a registered trademark of unfoldingWord. Use of the unfoldingWord name or logo requires the written permission of unfoldingWord. Under the terms of the CC BY-SA license, you may copy and redistribute this unmodified work as long as you keep the unfoldingWord® trademark intact. However, if you modify a copy or translate this work, thereby creating a derivative work, you must remove the unfoldingWord® trademark. On the derivative work, you must indicate what changes you have made and attribute the work as follows: “The original work by unfoldingWord is available from https://openbiblestories.org”. You must also make your derivative work available under the same license (CC BY-SA). If you would like to notify unfoldingWord regarding your translation of this work, please contact us at https://unfoldingword.org/contact/. Attribution of artwork: All images used in these stories are © Sweet Publishing ([www.sweetpublishing.com](http://www.sweetpublishing.com)) and are made available under a Creative Commons Attribution-Share Alike License (http://creativecommons.org/licenses/by-sa/3.0."
     }
   },
   "ingredients": {
     "LICENSE.md": {
       "mimeType": "text/markdown",
       "checksum": {
-        "md5": "7ccb0854d960c013e56608daa28e03ae"
+        "md5": "97c254986effcb3f9b27ed2e8a19577b"
       },
-      "size": 1644
+      "size": 1653
     },
     "content/01.md": {
       "mimeType": "text/markdown",
       "checksum": {
-        "md5": "39e81428079f566e96a10827b1f57df5"
+        "md5": "eeaabe633a42492a6cf80c2f4223b116"
       },
       "size": 4398,
       "scope": {
@@ -244,7 +244,7 @@
     "content/02.md": {
       "mimeType": "text/markdown",
       "checksum": {
-        "md5": "a80540afea3591b6414c7a6d337348d2"
+        "md5": "f5ab8b4af3e6f99201219ee0e412bc8f"
       },
       "size": 3685,
       "scope": {
@@ -254,7 +254,7 @@
     "content/03.md": {
       "mimeType": "text/markdown",
       "checksum": {
-        "md5": "fc6101f665da97002862cafed784de95"
+        "md5": "a6f8307d019ff321c07430c1520d5ad6"
       },
       "size": 4643,
       "scope": {
@@ -264,7 +264,7 @@
     "content/04.md": {
       "mimeType": "text/markdown",
       "checksum": {
-        "md5": "17ccaa819af588bd1830168c4dc73008"
+        "md5": "9b7a010bc5118c60568d86a74028366d"
       },
       "size": 3111,
       "scope": {
@@ -274,7 +274,7 @@
     "content/05.md": {
       "mimeType": "text/markdown",
       "checksum": {
-        "md5": "aa93ae1514903e4762c41a4799bded1e"
+        "md5": "d9f8f6eb40150a17929b7ca9b10a2a95"
       },
       "size": 3190,
       "scope": {
@@ -284,7 +284,7 @@
     "content/06.md": {
       "mimeType": "text/markdown",
       "checksum": {
-        "md5": "a472c547a96f8969c268eb47062cd221"
+        "md5": "acf64bb9364183aab79beda01701264a"
       },
       "size": 1930,
       "scope": {
@@ -294,7 +294,7 @@
     "content/07.md": {
       "mimeType": "text/markdown",
       "checksum": {
-        "md5": "4b8f9a9bb0db9cd3e1f9ac314e5f2fec"
+        "md5": "1e52a97a60bd71772d0cb8c9b8117085"
       },
       "size": 2773,
       "scope": {
