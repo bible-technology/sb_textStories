@@ -1,3 +1,4 @@
+[![CI](https://github.com/bible-technology/sb_textStories/workflows/CI/badge.svg?branch=master)](https://github.com/bible-technology/sb_textStories/actions)
 *This is an example textStories flavor Scripture Burrito*
 
 ![logo-obs](https://filedn.com/lD0GfuMvTstXgqaJfpLL87S/assets/uw-icons/logo-obs-256.png)
