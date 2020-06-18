@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+sample.xpr
+# Emacs files
+*~
+\#*\#
+.\#*
