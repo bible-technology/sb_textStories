@@ -29,7 +29,8 @@
     "primary": {
       "dcs": {
         "dcs::unfoldingword:en_obs": {
-          "revision": "v8"
+          "revision": "v8",
+          "timestamp": "2020-05-27T09:04:10.3+02:00"
         }
       }
     }
