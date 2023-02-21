@@ -34,10 +34,7 @@
       }
     }
   },
-  "confidentiality": {
-    "metadata": "unrestricted",
-    "ingredients": "restricted"
-  },
+  "confidential": false,
   "type": {
     "flavorType": {
       "name": "gloss",
